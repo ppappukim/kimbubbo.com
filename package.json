@@ -1,0 +1,20 @@
+{
+  "name": "kimbubbo.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppappukim/kimbubbo.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppappukim/kimbubbo.com/issues"
+  },
+  "homepage": "https://github.com/ppappukim/kimbubbo.com#readme",
+  "dependencies": {}
+}
